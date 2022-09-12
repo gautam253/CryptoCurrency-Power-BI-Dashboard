@@ -1,3 +1,6 @@
+<h1> CryptoCurrency-Power-BI-Dashboard <h6>
+
+
 In this project, I have taken a dataset from kaggle and analyzed it by creating data visualization dashboard of cryptocurrency by Power BI.
 
 Firstly,I have downladed a dataset of cryptocurrency from Kaggle & organised it in excel.
